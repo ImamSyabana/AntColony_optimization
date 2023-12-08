@@ -1,2 +1,3 @@
-# antColony_optimization
-penerapan ACO pada masalah travelling salesman problem
+# Penerapan Ant Colony Optimization pada Travelling Salesman Problem
+
+Algoritma Ant Colony Optimization (ACO) dapat diimplementasikan untuk menyelesaikan kasus Traveling Salesman Problem (TSP). TSP adalah masalah optimisasi yang melibatkan penentuan rute terpendek yang melibatkan kunjungan semua titik atau kota yang ada, dan kembali ke titik awal. Tujuan utamanya adalah untuk mengoptimalkan total jarak tempuh atau biaya perjalanan. Untuk menyelesaikan masalah TSP konsep dari Ant Colony Optimization dapat dimanfaatkan. ACO adalah algoritma metaheuristik yang terinspirasi oleh perilaku koloni semut dalam mencari jalur terpendek antara sarang semut dan sumber makanan. Dalam konteks TSP, semut-semut mengikuti jalur di graf (representasi kota dan jarak antara kota) dengan meletakkan jejak pheromone. Semakin banyak semut yang melewati suatu jalur, semakin besar konsentrasi pheromone, dan jalur ini menjadi lebih menarik bagi semut lainnya.
